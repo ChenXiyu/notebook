@@ -1,0 +1,3 @@
+[submodule "the-craft-of-selfteaching"]
+	path = the-craft-of-selfteaching
+	url = git@github.com:selfteaching/the-craft-of-selfteaching.git
