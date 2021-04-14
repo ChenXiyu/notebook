@@ -1,0 +1,7 @@
+#!/bin/bash -e
+
+cd $(dirname $0)/..
+
+git add .
+git commit -m "[$(date)] auto save"
+git push origin master
